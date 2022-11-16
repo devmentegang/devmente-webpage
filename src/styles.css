@@ -1,1 +1,35 @@
 /* You can add global styles to this file, and also import other style files */
+.main-text {
+    font-family: Oxanium;
+}
+
+.main-font-size {
+    font-size:90px
+}
+
+/* Secondary-text {
+    font-family: Read
+} */
+
+.backgroung {
+    background-color:#000000
+}
+
+.navbar-menu-text {
+    font-family: Oxanium;
+    color: #d0d0d0;
+}
+
+
+.secondary-color {
+    color: #00F3FF
+}
+
+.avatar {
+    background-image: url(assets/img/team-1-800x800.jpg);
+    background-size: contain;
+    border-radius: 50%;
+    width: 160px;
+    height: 160px;
+    padding: 20px;
+}
